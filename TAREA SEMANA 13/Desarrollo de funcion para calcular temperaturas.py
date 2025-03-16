@@ -119,7 +119,7 @@ temperaturas = [
             {"day": "Domingo", "temp": 83}
         ],
         [   # Semana 4
-            {"day": "Lunes", "temp": 85},
+            {"day": "Lunes", "temp": 88},
             {"day": "Martes", "temp": 90},
             {"day": "Miércoles", "temp": 92},
             {"day": "Jueves", "temp": 89},
